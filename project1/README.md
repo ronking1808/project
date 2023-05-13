@@ -1,11 +1,11 @@
 for the start I just made 3 serves: 
-1.for the app server.
-2.for jankins server.
-3.for my ansible server.
+ 1.for the app server.
+  2.for jankins server.
+   3.for my ansible server.
 for all the servers I download this: 
-1. webapp-(k8s cluster) -> (Docker+Minikube)
-2.jankins-(jenkins).
-3.ansible- (ansible+python+docker).
+ 1. webapp-(k8s cluster) -> (Docker+Minikube)
+  2.jankins-(jenkins).
+   3.ansible- (ansible+python+docker).
 
 
 at the start I uplode a Dockerfile that contines: 
